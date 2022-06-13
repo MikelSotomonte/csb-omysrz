@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-omysrz/static/css/main.9b1431d8.chunk.css",
-    "main.js": "https://.github.io/csb-omysrz/static/js/main.f6813f24.chunk.js",
-    "main.js.map": "https://.github.io/csb-omysrz/static/js/main.f6813f24.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-omysrz/static/js/runtime-main.ff51cdc1.js",
-    "runtime-main.js.map": "https://.github.io/csb-omysrz/static/js/runtime-main.ff51cdc1.js.map",
-    "static/css/2.134d9d81.chunk.css": "https://.github.io/csb-omysrz/static/css/2.134d9d81.chunk.css",
-    "static/js/2.005569f7.chunk.js": "https://.github.io/csb-omysrz/static/js/2.005569f7.chunk.js",
-    "static/js/2.005569f7.chunk.js.map": "https://.github.io/csb-omysrz/static/js/2.005569f7.chunk.js.map",
-    "index.html": "https://.github.io/csb-omysrz/index.html",
-    "precache-manifest.a3cbcda16bafd5b86d5c3fb0930a98d5.js": "https://.github.io/csb-omysrz/precache-manifest.a3cbcda16bafd5b86d5c3fb0930a98d5.js",
-    "service-worker.js": "https://.github.io/csb-omysrz/service-worker.js",
-    "static/css/2.134d9d81.chunk.css.map": "https://.github.io/csb-omysrz/static/css/2.134d9d81.chunk.css.map",
-    "static/css/main.9b1431d8.chunk.css.map": "https://.github.io/csb-omysrz/static/css/main.9b1431d8.chunk.css.map",
-    "static/js/2.005569f7.chunk.js.LICENSE.txt": "https://.github.io/csb-omysrz/static/js/2.005569f7.chunk.js.LICENSE.txt"
+    "main.css": "https://mikelsotomonte.github.io/csb-omysrz/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://mikelsotomonte.github.io/csb-omysrz/static/js/main.843f024c.chunk.js",
+    "main.js.map": "https://mikelsotomonte.github.io/csb-omysrz/static/js/main.843f024c.chunk.js.map",
+    "runtime-main.js": "https://mikelsotomonte.github.io/csb-omysrz/static/js/runtime-main.4536ed19.js",
+    "runtime-main.js.map": "https://mikelsotomonte.github.io/csb-omysrz/static/js/runtime-main.4536ed19.js.map",
+    "static/css/2.134d9d81.chunk.css": "https://mikelsotomonte.github.io/csb-omysrz/static/css/2.134d9d81.chunk.css",
+    "static/js/2.005569f7.chunk.js": "https://mikelsotomonte.github.io/csb-omysrz/static/js/2.005569f7.chunk.js",
+    "static/js/2.005569f7.chunk.js.map": "https://mikelsotomonte.github.io/csb-omysrz/static/js/2.005569f7.chunk.js.map",
+    "index.html": "https://mikelsotomonte.github.io/csb-omysrz/index.html",
+    "precache-manifest.a594faa9ce61aafd06d4eab3b2751fb2.js": "https://mikelsotomonte.github.io/csb-omysrz/precache-manifest.a594faa9ce61aafd06d4eab3b2751fb2.js",
+    "service-worker.js": "https://mikelsotomonte.github.io/csb-omysrz/service-worker.js",
+    "static/css/2.134d9d81.chunk.css.map": "https://mikelsotomonte.github.io/csb-omysrz/static/css/2.134d9d81.chunk.css.map",
+    "static/css/main.9b1431d8.chunk.css.map": "https://mikelsotomonte.github.io/csb-omysrz/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.005569f7.chunk.js.LICENSE.txt": "https://mikelsotomonte.github.io/csb-omysrz/static/js/2.005569f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff51cdc1.js",
+    "static/js/runtime-main.4536ed19.js",
     "static/css/2.134d9d81.chunk.css",
     "static/js/2.005569f7.chunk.js",
     "static/css/main.9b1431d8.chunk.css",
-    "static/js/main.f6813f24.chunk.js"
+    "static/js/main.843f024c.chunk.js"
   ]
 }
